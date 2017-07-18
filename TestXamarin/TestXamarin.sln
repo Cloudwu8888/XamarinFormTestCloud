@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXamarin.UWP", "TestXama
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		TestXamarin\TestXamarin\TestXamarin.projitems*{3004b472-291a-460e-9ecc-94d437645d51}*SharedItemsImports = 4
+		TestXamarin\TestXamarin\TestXamarin.projitems*{8d070a6a-a3a1-4ca7-80cf-1dccef76092c}*SharedItemsImports = 4
 		TestXamarin\TestXamarin\TestXamarin.projitems*{bdd59cb9-a1ff-434b-a004-d7d3fc8cc3c3}*SharedItemsImports = 4
 		TestXamarin\TestXamarin\TestXamarin.projitems*{debd3544-7817-48c2-90f0-9ff845afa799}*SharedItemsImports = 13
 	EndGlobalSection
@@ -68,6 +70,7 @@ Global
 		{3004B472-291A-460E-9ECC-94D437645D51}.Release|x86.Build.0 = Release|Any CPU
 		{3004B472-291A-460E-9ECC-94D437645D51}.Release|x86.Deploy.0 = Release|Any CPU
 		{BDD59CB9-A1FF-434B-A004-D7D3FC8CC3C3}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{BDD59CB9-A1FF-434B-A004-D7D3FC8CC3C3}.Debug|Any CPU.Build.0 = Debug|iPhone
 		{BDD59CB9-A1FF-434B-A004-D7D3FC8CC3C3}.Debug|ARM.ActiveCfg = Debug|iPhone
 		{BDD59CB9-A1FF-434B-A004-D7D3FC8CC3C3}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{BDD59CB9-A1FF-434B-A004-D7D3FC8CC3C3}.Debug|iPhone.Build.0 = Debug|iPhone
@@ -84,6 +87,8 @@ Global
 		{BDD59CB9-A1FF-434B-A004-D7D3FC8CC3C3}.Release|x64.ActiveCfg = Release|iPhone
 		{BDD59CB9-A1FF-434B-A004-D7D3FC8CC3C3}.Release|x86.ActiveCfg = Release|iPhone
 		{8D070A6A-A3A1-4CA7-80CF-1DCCEF76092C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8D070A6A-A3A1-4CA7-80CF-1DCCEF76092C}.Debug|Any CPU.Build.0 = Debug|x86
+		{8D070A6A-A3A1-4CA7-80CF-1DCCEF76092C}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{8D070A6A-A3A1-4CA7-80CF-1DCCEF76092C}.Debug|ARM.ActiveCfg = Debug|ARM
 		{8D070A6A-A3A1-4CA7-80CF-1DCCEF76092C}.Debug|ARM.Build.0 = Debug|ARM
 		{8D070A6A-A3A1-4CA7-80CF-1DCCEF76092C}.Debug|ARM.Deploy.0 = Debug|ARM

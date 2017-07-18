@@ -1,0 +1,1 @@
+D:\Users\v-ruiywu\Source\Repos\XamarinFormTestCloud\TestXamarin\TestXamarin\TestXamarin.UWP\TestXamarin.UWP.csproj;x86

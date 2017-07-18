@@ -9,7 +9,8 @@ namespace TestXamarin.ViewModels
 		{
 			Title = item.Text;
 			Item = item;
-		}
+           
+        }
 
 		int quantity = 1;
 		public int Quantity

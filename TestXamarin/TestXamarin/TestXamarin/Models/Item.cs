@@ -5,8 +5,8 @@
 		string text = string.Empty;
 		public string Text
 		{
-			get { return text; }
-			set { SetProperty(ref text, value); }
+			get { return text;}
+            set { SetProperty(ref text, value); }
 		}
 
 		string description = string.Empty;
